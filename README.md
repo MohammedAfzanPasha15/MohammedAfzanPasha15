@@ -39,14 +39,14 @@ Passionate about building cool things with code. Currently learning and growing 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedAfzanPasha15&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedAfzanPasha15&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedAfzanPasha15&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="48%" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=MohammedAfzanPasha15&theme=radical&hide_border=true" width="48%" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAfzanPasha15&layout=compact&theme=radical&hide_border=true" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAfzanPasha15&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="40%" alt="Top Languages"/>
 
 </div>
 
@@ -71,8 +71,8 @@ Passionate about building cool things with code. Currently learning and growing 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedAfzanPasha15)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedafzanpasha/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohammed__afzan)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedafzanpasha@gmail.com)
 
 </div>
